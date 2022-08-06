@@ -1,0 +1,8 @@
+googletrans==3.1.0a0
+BeautifulSoup
+emoji
+imageai
+Flask==2.0.2
+werkzeug==2.0.3
+Flask_Cors==3.0.10
+spacy
